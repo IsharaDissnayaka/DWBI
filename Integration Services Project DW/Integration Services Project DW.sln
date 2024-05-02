@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integration Services Project DW", "Integration Services Project DW.dtproj", "{61CC318A-355B-40EC-936D-F26CACC00394}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DA59CC0-8231-4BA7-80DD-983E65552255}"
+	ProjectSection(SolutionItems) = preProject
+		..\Data Descriptions.xlsx = ..\Data Descriptions.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61CC318A-355B-40EC-936D-F26CACC00394}.Development|Default.ActiveCfg = Development
+		{61CC318A-355B-40EC-936D-F26CACC00394}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358E3BF2-7181-422F-86D9-88A325A5622E}
+	EndGlobalSection
+EndGlobal
